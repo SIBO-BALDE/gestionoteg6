@@ -1,0 +1,54 @@
+#beauty{
+    background-color: #007bff; 
+    width: 100%;
+}
+.contain-img img{
+   
+    width: 165px;
+    height: 167px; 
+    /* border-radius: 50%; */
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    /* border: 5px solid #CE6A6B; */
+    /* border-top-right: 10px #CE6A6B ; */
+    border-top: #CE6A6B;
+    border-bottom: #CE6A6B;
+    /* margin-left: 0; */
+    margin-bottom: 0;
+    }
+    .contain-body{
+        line-height: 15px;
+    }
+    #btn-popup:hover{
+        background-color:#007BFF ;
+        color: white;
+
+    }
+    .content-icons{
+        width: 25px;
+        height: 25px;
+        display: flex;
+        place-content: center;
+        align-items: center;
+    }
+    .content-two{
+        width: 130px;
+        height: 130px; 
+        width:100%;
+        margin-right: 20px;
+
+    }
+    .img-content-two{
+        border: 1px solid #007BFF;
+       margin-left: 20px;
+       margin-top: 30px;
+       padding: 5px;
+    }
+    .img-content-two img{
+        width: 70px;
+        height: 70px; 
+
+    }
+    .espacement{
+        margin-left: 10px;
+    }

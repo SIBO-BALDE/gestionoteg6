@@ -1,0 +1,38 @@
+.boutonajout{
+    background-color: #CE6A6B;
+    font-size: 16px;
+    margin-top: 5%;
+}
+select, input{
+    height: 5vh;
+    border: none;
+    border-bottom: 2px solid #CE6A6B ;
+    background-color: white;   
+}
+
+#badgeEtat{
+    outline: 1px solid #007bff ;
+    color: #007bff;
+}
+#badgeAction{
+    outline: 1px solid #CE6A6B ;
+    color: #CE6A6B;
+}
+.gris {
+    background-color: rgba(184, 183, 183, 0.675);
+    opacity: 0.3;
+}
+.table{
+    /* border: 2px solid red; */
+}
+.card-body{
+    /* border:  2px solid blue; */
+}
+.card{
+    /* border: 2px solid green; */
+    margin-right: 400px;
+
+}
+select {
+    width: 100%;
+}
